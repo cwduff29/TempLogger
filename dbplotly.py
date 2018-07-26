@@ -6,10 +6,10 @@ import pandas as pd
 import plotly.plotly as py
 from plotly.graph_objs import *
 
-py.sign_in('cduff29','mdrk6hklyg')
+py.sign_in('aaa','xxxx')
 
 user_id = "logger"
-password = "procarbine"
+password = "xxxx"
 host = "localhost"
 database = "temperatures"
 
